@@ -1,3 +1,23 @@
+body{
+  font-family: Impact;
+  font-size:30px;
+  background:#D40
+  }
+div {
+ background: red;
+  margin: 0 auto;
+  width: 200px;
+  padding: 100px;
+  text-align: center;
+  /* border-radius */
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  /* box-shadow */
+  -webkit-box-shadow: rgba(0,0,0,0.2) 0px 1px 3px;
+  -moz-box-shadow: rgba(0,0,0,0.2) 0px 1px 3px;
+  box-shadow: rgba(0,0,0,0.2) 0px 1px 3px;
+}
 @keyframes slideYLarge {
     0%  { transform: translateY(0);    }
     50% { transform: translateY(200%); } // magic number
