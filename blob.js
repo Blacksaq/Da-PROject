@@ -1,3 +1,5 @@
+import time 
+import sys 
 @keyframes slideYLarge {
     0%  { transform: translateY(0);    }
     50% { transform: translateY(200%); } // magic number
