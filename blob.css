@@ -1,7 +1,7 @@
 body{
   font-family: Impact;
   font-size:30px;
-  background:#D40
+  background:#161616;
   }
 div.box {
  background: red;
@@ -23,6 +23,13 @@ div.block {
   margin: 0 auto;
   width: 400px;
   padding:
- 
- 
+}
+svg {
+  width: 100vw;
+  height: 100vh;
+}
+
+
+svg {
+  visibility: hidden; 
 }
