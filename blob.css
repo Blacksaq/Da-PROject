@@ -3,7 +3,7 @@ body{
   font-size:30px;
   background:#D40
   }
-div {
+div.box {
  background: red;
   margin: 0 auto;
   width: 200px;
@@ -18,7 +18,11 @@ div {
   -moz-box-shadow: rgba(0,0,0,0.2) 0px 1px 3px;
   box-shadow: rgba(0,0,0,0.2) 0px 1px 3px;
 }
-a {
-  left margin:445px;
+div.block {
+ 
+  margin: 0 auto;
+  width: 400px;
+  padding:
+ 
+ 
 }
-
