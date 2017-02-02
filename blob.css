@@ -1,7 +1,11 @@
 body{
   font-family: Impact;
   font-size:30px;
-  background:#161616;
+  font color:#F00;
+  margin: 0; 
+  overflow: hidden; 
+  background-color: black;
+  background:#000;
   }
 div.box {
   background: red;
@@ -39,7 +43,7 @@ div.menu-main-menu-container {
     padding: 0;
     overflow: hidden;
     background-color: #fff;
-    font color: red;
+    font color: #F00;
     text-decoration: none;
 }
 svg {
