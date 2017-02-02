@@ -53,5 +53,6 @@ svg {
 }
 p.jj{
 font-size: 20px;
-text-align: center;  
+text-align: left;
+border: 6px solid red;
 }
