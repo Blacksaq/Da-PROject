@@ -34,11 +34,12 @@ div.box2 {
 }
 div.menu-main-menu-container {
  
- list-style-type: none;
+ list-style-type: inline;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #fff;
+    font color: red;
 }
 svg {
   width: 100vw;
