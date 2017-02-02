@@ -43,7 +43,7 @@ div.menu-main-menu-container li{
     padding: 0;
     overflow: hidden;
     background-color: #fff;
-    color: #F00;
+    color: red;
     text-decoration: none;
 }
 svg {
