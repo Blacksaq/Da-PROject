@@ -34,9 +34,11 @@ div.box2 {
 }
 div.menu-main-menu-container {
  
-  margin: 0 auto;
-  width: 400px;
-  padding:
+ list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fff;
 }
 svg {
   width: 100vw;
