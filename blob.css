@@ -36,7 +36,7 @@ div.box2 {
   -moz-box-shadow: rgba(0,0,0,0.2) 0px 1px 3px;
   box-shadow: rgba(0,0,0,0.2) 0px 1px 3px;
 }
-div.menu-main-menu-container {
+div.menu-main-menu-container li{
  
     display: inline-block;
     margin: 0;
