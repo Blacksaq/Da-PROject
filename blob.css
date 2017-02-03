@@ -6,7 +6,6 @@ body{
   font-size:30px;
   font color:#F00;
   margin: 0; 
-  overflow: hidden; 
   background-color: black;
   background:#000;
   }
@@ -69,7 +68,7 @@ a{
 * { box-sizing: border-box; }
 
 /* force scrollbar */
-
+html { overflow-y: scroll; }
 
 body { font-family: sans-serif; }
 
