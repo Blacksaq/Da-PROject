@@ -1,15 +1,10 @@
-$('.photoset-grid-lightbox').photosetGrid({
-  highresLinks: true,
-  rel: 'withhearts-gallery',
-  gutter: '2px',
+// external js: masonry.pkgd.js, imagesloaded.pkgd.js
 
-  onComplete: function(){
-    $('.photoset-grid-lightbox').attr('style', '');
-    $('.photoset-grid-lightbox a').colorbox({
-      photo: true,
-      scalePhotos: true,
-      maxHeight:'90%',
-      maxWidth:'90%'
-    });
-  }
+// init Masonry after all images have loaded
+var $grid = $('.grid').imagesLoaded( function() {
+  $grid.masonry({
+    itemSelector: '.grid-item',
+    percentPosition: true,
+    columnWidth: '.grid-sizer'
+  }); 
 });
