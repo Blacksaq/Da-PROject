@@ -72,15 +72,6 @@ nav{
 	font-family: Monaco;
 }
 /* the logo class is the word "MERIT" on the top of the blog website. the character in this class give it it's font, colour, weight, size, etc. */
-ul{
-	padding: 0;
-	margin: 0;
-	overflow: hidden;
-	color: #fff;
-	text-align: center;
-	-webkit-transition: max-height 0.5s;
-	transition: max-height 0.5s;
-}
 
 .nav-item{
 	display: inline-block;
