@@ -252,5 +252,13 @@ table tr:last-child td:first-child {
 table tr:last-child td:last-child {
   border-bottom-right-radius: 6px;
 }
-
+div.menu-main-menu-container li{
+ display: inline-block;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fff;
+    color: red;
+}
+    text-decoration: none;
 /* TABLE FORMAT END */
