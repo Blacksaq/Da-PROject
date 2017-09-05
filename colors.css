@@ -1,0 +1,76 @@
+}*/
+.stack {
+  min-height: 500px;
+  width: 5%;
+  display: inline-table;
+
+}
+/*.white {
+	  background-color: #fff;
+	  min-height:25px;
+}*/
+
+
+.lime_green {
+  background-color: #97D23C;
+}
+
+
+.green {
+  background-color: #FFEC0C;
+}
+
+.limer_green {
+  background-color: #16A950;
+}
+/*this is the stack class set of colors*/
+.green1 {
+  background-color: #00A046;
+}
+
+
+.forrest {
+  background-color: #008977;
+}
+
+
+.ocean {
+  background-color: #0070AF;
+}
+
+.sky {
+  background-color: #335AB6;
+}
+
+
+.purple {
+  background-color: #704591;
+}
+
+
+
+.dusk {
+  background-color: #97476C;
+}
+
+
+
+.dawn {
+  background-color: #B83755;
+}
+
+
+
+.fire {
+  background-color: #DD3938;
+}
+
+
+.lava {
+  background-color: #F54E2A;
+}
+
+
+.orange {
+  background-color: #FE762A;
+}
