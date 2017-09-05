@@ -1,0 +1,17 @@
+/* Check out different fonts here: https://fonts.google.com/ */
+
+h1 {
+	font-family: 'Baloo Bhaijaan', cursive;
+	padding-bottom: 10px;
+}
+
+h2 {
+	font-family: 'Baloo Bhaijaan', cursive;
+	font-family: 'Roboto', sans-serif;
+	padding-bottom: 30px;
+}
+
+h3 {
+	font-family: 'Droid Serif', serif;
+	padding-bottom: 50px;
+}
